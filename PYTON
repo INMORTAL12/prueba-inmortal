@@ -1,0 +1,10 @@
+# hola mundo
+print("hola mundo")
+
+# Consultar el tip de dato
+print(type("Soy un datdo str ")) # tipo str
+print(type(5)) #tipo'int'
+print(type(1.5)) # Tipo 'float'
+print(type(True)) # Tipo 'bool'
+print(type(3 +1j)) #tipo complex
+print(type(print('cadena de texto')))# Tipo 'nonetype'
